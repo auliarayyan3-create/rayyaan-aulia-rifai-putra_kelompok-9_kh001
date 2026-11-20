@@ -1,0 +1,10 @@
+{
+    "appTitle": "Student Directory",
+    "detailTitle": "User Details",
+    "email": "Email",
+    "city": "City",
+    "language": "Language",
+    "errorMessage": "",
+    "retry": "",
+    "noData": "",
+}
